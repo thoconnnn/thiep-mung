@@ -1,5 +1,5 @@
 const nameGirl = 'Gia Hân';
-const giftUrl = '';
+const giftUrl = '#';
 const eventName = 'Gửi tặng chị';
 const titleCard = 'Thông điệp từ vũ trụ';
 const contentCard = 'Em chúc chị một ngày vui vẻ nha và ngập tràn hạnh phúc nhé ^^ ';
